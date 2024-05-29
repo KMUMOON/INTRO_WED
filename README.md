@@ -3,4 +3,5 @@
 👀 I'm interested in Python, AI, BigData  
 😁 Fun Fact: I'm married  
 🫡 Yes, sir!  
-Today is Wednesday
+Today is Wednesday  
+### 2. 특기 업데이트
